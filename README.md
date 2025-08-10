@@ -1,16 +1,63 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**salimov-raf/salimov-raf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - физ-тех ЕГПИ (с отличем) 1992-1997
+  - Школа онлайн-профессий SkillFacotry по специальности Data Science
+* До Data Science работал проектировщиком по электроснаюжению 15 лет
+* Учусь
+* 
+* 
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты:
+- Python
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- пока еще учусь
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](@rafael_salimov)
+
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - Physics and Technology at YEPI (with honors) 1992-1997
+ - SkillFacotry School of Online Professions in Data Science
+* I worked as an electrical engineer for 15 years before studying Data Science
+* I am currently studying
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools:
+- Python
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram](@rafael_salimov)
